@@ -7,7 +7,8 @@
 char version[40] = "1.0 - 03.02.2022";
 
 void help() {
-     printf("\n GPClean by Giovanni Palleschi - 2022 ");
+     printf("\n GPClean by Giovanni Palleschi - 2022 \n");
+     printf("\n https://github.com/gpalleschi/GPClean \n");
      printf("\n --------------------------------------------------------------- ");
      printf("\n Version : %s",version);
      printf("\n --------------------------------------------------------------- \n");

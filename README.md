@@ -4,7 +4,7 @@
 
 ## Description :
 
-LC Tool to replace special characters from text file in format utf8.  
+LC Tool to replace special characters in text file in format utf8.  
 
 This tool acept a txt file in UTF8 format in stdin and produce in stdout, same file with special characters cleaned.  
 
